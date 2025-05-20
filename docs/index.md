@@ -1,6 +1,6 @@
-# 👨‍💻 DevOps & Cloud Engineer Portfolio – abishek poudel chhetri
+# 👨‍💻 DevOps & Cloud Engineer Portfolio – Abishek Poudel Chhetri
 
-AWS Certified | DevOps Engineer | Kubernetes | Terraform | CI/CD | Python | GitOps
+AWS | DevOps Engineer | Kubernetes | Terraform | CI/CD | Python | GitOps
 
 ---
 
@@ -55,7 +55,7 @@ Terraform, Helm |
 
 ## 📫 Connect with Me
 
-* 💼 [LinkedIn](www.linkedin.com/in/abishek-poudel-chhetri-38b2b821a)
+* 💼 [LinkedIn](https://www.linkedin.com/in/abishek-poudel-chhetri-38b2b821a/?trk=public-profile-join-page)
 * 💻 [GitHub](https://github.com/abishekcpoudel
 * 🌐 [Your Personal Site or Blog](https://your-site.dev) 
 *(optional)*
